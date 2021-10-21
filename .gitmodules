@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bartesto/universe
 	shallow = true
 	branch = HEAD
+[submodule "rivRmon"]
+	path = rivRmon
+	url = https://github.com/dbca-wa/rivRmon
+	shallow = true
+	registered = true
+[submodule "dbcaDHW"]
+	path = dbcaDHW
+	url = https://github.com/dbca-wa/dbcaDHW
+	shallow = true
+	registered = true
+[submodule "ScatMatch"]
+	path = ScatMatch
+	url = https://github.com/dbca-wa/ScatMatch
+	shallow = true
+	registered = true
